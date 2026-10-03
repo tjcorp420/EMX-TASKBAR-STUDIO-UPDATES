@@ -1,9 +1,9 @@
 {
-  "package": "EMX-Taskbar-Studio-0.1.4-portable.zip",
-  "url": "https://github.com/tjcorp420/EMX-TASKBAR-STUDIO-UPDATES/releases/download/v0.1.4/EMX-Taskbar-Studio-0.1.4-portable.zip",
-  "version": "0.1.4",
-  "size": 78794129,
-  "architecture": "win-x64",
+  "url": "https://github.com/tjcorp420/EMX-TASKBAR-STUDIO-UPDATES/releases/download/v0.1.5/EMX-Taskbar-Studio-0.1.5-portable.zip",
+  "sha256": "ff02efd507871e67ce4249a3e65a9bc3fdc0ccc452f6d954e14df251f78cb6e9",
+  "version": "0.1.5",
   "minimumWindows": "10.0.19041",
-  "sha256": "8a2f2af1473ee856d8c3268d4e2fa92a1554cc8666136dac53eef3ce165dbb0a"
+  "package": "EMX-Taskbar-Studio-0.1.5-portable.zip",
+  "size": 78828691,
+  "architecture": "win-x64"
 }
