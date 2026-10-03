@@ -7,7 +7,9 @@ Use the **EMX taskbar ON / OFF** toggle in the footer on every page, or **Ctrl +
 - Home: fourteen presets with different layouts and styles.
 - Pins: all Windows pins, a chosen subset, or a library built from scratch. The installed-app picker supports Store apps such as SoundCloud without finding an EXE.
 - Appearance: bar, floating islands, individual icon pills, split groups or rail; shape, color, opacity, borders, image, pattern and animated MP4 backgrounds. Choose **Choose animated MP4 background** to import a local video: muted looping playback behind the icons, paused while hidden. H.264 MP4 up to 256 MB and 4096 pixels per side; decoding depends on installed Windows codecs.
-- Layout: choose screen edge/alignment, floating or screen-edge placement, dimensions and wheel/arrow navigation.
+- Layout: choose screen edge/alignment, floating or screen-edge placement, maximum length, minimum bar thickness, padding and wheel/arrow navigation. Sizing controls include exact numeric entry. Partial edge tiles hide fully while scrolling reaches every app.
+- Icons: thirteen surfaces including Circle, Diamond, Triangle, Hexagon, Octagon, Shield and Star, with editable idle visibility. Real artwork stays intact.
+- Colors: owned EMX picker, RGB sliders and HEX/RGB input. Image/video color uses editable tint; gradient-end controls are disabled for materials that do not use them.
 - Animations: magnify, lift, tilt, float, bounce, press, halo, fade or no motion, with editable strength, duration and easing.
 - Audio: Windows master volume/mute and media playback, artwork and transport supported by the selected app/browser. Resize with the bottom-right grip or window border; drag the header. Size and position are remembered.
 - Updates: click **Check for updates**, review the available version, then **Download & restart**. Downloads are verified before installation, replaced files are backed up, and startup is checked. Settings and pins stay in your user configuration folder.

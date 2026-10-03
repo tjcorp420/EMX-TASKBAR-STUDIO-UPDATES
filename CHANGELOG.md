@@ -1,5 +1,14 @@
 # Changes
 
+## 0.1.7
+- Hide partial app tiles at viewport edges, preserve complete hover bounds and reserve a full icon on narrow layouts. Scroll wheel/arrows still reach every app.
+- Replace the unowned system color dialog with an owned EMX picker, live swatch, RGB sliders and validated HEX/RGB input. Add image/video tint; disable irrelevant gradient-end controls.
+- Add precise numeric sizing and minimum bar thickness across all designs. Radius controls select Custom so changes take effect.
+- Add Diamond, Triangle, Hexagon, Octagon, Shield and Star icon surfaces; make Circle geometric and idle surfaces visible with adjustable opacity.
+- Make module toggles respond to accessible state changes and verify all nine hover effects through actual editor selections.
+- Remove View public releases from Updates; retain verified in-app check/download/restart.
+
+
 ## 0.1.6
 - Make the EMX on/off toggle respond to accessibility TogglePattern as well as mouse and keyboard changes. Synchronization after hotkeys or native recovery cannot recursively change taskbar state.
 
