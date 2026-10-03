@@ -1,5 +1,14 @@
 # Changes
 
+## 0.1.8
+- Center original app artwork across all thirteen icon surfaces in horizontal and vertical docks; center ring indicators too.
+- Shared PNG/JPEG and muted MP4 icon backgrounds with opacity, shape rendering and hidden pause/disposal.
+- Continuous hover motion while pointed, with Repeat toggle, full cycle speed and smooth exit settling.
+- Independent Windows audio-session volume/mute per app and browser, including installed SoundCloud. Browser tabs may share one level; partial/expired sessions show recovery.
+- Optional EMX auto-hide with screen edge hover, pointer corridor, menu hold, hide/reveal delays and Slide/Fade/Zoom/None animation. Windows reveal and recovery retain priority.
+- Position along edge slider uses actual free space, Center button resets offsets, Alignment clears its active-axis offset, and cross-edge movement switches to Floating. Native and preview positions share DPI-aware clamping.
+- Validated Epic/Steam game shortcuts support Fortnite and Keep Digging without launching during pinning; standard BELOW/EMX WORLD shortcuts remain supported.
+
 ## 0.1.7
 - Hide partial app tiles at viewport edges, preserve complete hover bounds and reserve a full icon on narrow layouts. Scroll wheel/arrows still reach every app.
 - Replace the unowned system color dialog with an owned EMX picker, live swatch, RGB sliders and validated HEX/RGB input. Add image/video tint; disable irrelevant gradient-end controls.
