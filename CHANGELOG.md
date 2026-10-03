@@ -1,5 +1,9 @@
 # Changes
 
+## 0.1.6
+- Make the EMX on/off toggle respond to accessibility TogglePattern as well as mouse and keyboard changes. Synchronization after hotkeys or native recovery cannot recursively change taskbar state.
+
+
 ## 0.1.5
 - Persistent EMX on/off footer toggle and global rebindable shortcut (default Ctrl + Alt + L), including single letters, digits and F1–F24. Windows/EMX handoff and preferences persist.
 - Local MP4 backgrounds: muted native playback, looping, opacity, pause while hidden, decoder cleanup and recoverable solid-color fallback.
