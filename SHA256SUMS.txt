@@ -1,1 +1,1 @@
-4d378662a7e9c3e8bbc9933774ded966d7513f219f47bfbe9f37b4d972f04492  EMX-Taskbar-Studio-0.1.8-portable.zip
+b8c775347c60c03477b910a0507ad6369b434e697334ad129f6414c042b4c713  EMX-Taskbar-Studio-0.1.9-portable.zip

@@ -1,5 +1,10 @@
 # Changes
 
+## 0.1.9
+- Add saved-profile Load & edit, Save changes, retained selection, rename linkage, conflict protection and confirmed deletion.
+- Keep the audio drag header and Close button visible while scrolling and resizing.
+- Distinguish Windows mixer percentages from internal player volume. Read SoundCloud's reported player percentage separately when its accessible button exposes it; do not pretend unsupported player writes succeed.
+
 ## 0.1.8
 - Center original app artwork across all thirteen icon surfaces in horizontal and vertical docks; center ring indicators too.
 - Shared PNG/JPEG and muted MP4 icon backgrounds with opacity, shape rendering and hidden pause/disposal.

@@ -29,3 +29,7 @@ Animations → Repeat hover motion while pointed keeps the selected effect cycli
 Pin local Epic Games and Steam game shortcuts (.url), including Fortnite and Keep Digging, as well as standard .lnk shortcuts. Game launch actions are validated when pinned and clicked. Browser links, scripts and unrelated protocols are rejected.
 
 App & browser volume in EMX Audio changes an app independently of Windows master level. Apps appear after creating an audio session; browser tabs may share one browser level. A YouTube tab may therefore change along with other audio tabs. Exclusive streams can be unavailable.
+
+EMX Audio keeps its drag header and Close button fixed while the body scrolls, including at the minimum panel height. App sliders are explicitly labeled Windows mixer. SoundCloud may expose its own player percentage in its accessible volume button; EMX reads that separately when available. That percentage is read-only: the installed SoundCloud player does not expose a working slider control API. Change its internal level in SoundCloud; EMX independently controls its Windows mixer level.
+
+Profiles: select an existing profile and Load & edit. Change settings on any page, then return and Save changes. Rename and Delete operate on the selected profile; deletion asks for confirmation and leaves the live taskbar settings intact. Create from current and Duplicate require a new name and never overwrite an existing profile.
